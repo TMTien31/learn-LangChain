@@ -3,3 +3,4 @@ langchain-openai==0.1.17
 python-dotenv==1.0.1
 langchain-groq==0.1.6
 langchain_google_genai
+langchain_community==0.2.10
